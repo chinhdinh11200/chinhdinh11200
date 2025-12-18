@@ -75,7 +75,7 @@
           "moonrise": "No moonrise",
           "moonset": "01:39 PM",
           "moon_phase": "Waning Crescent",
-          "moon_illumination": "39",
+          "moon_illumination": 39,
           "is_moon_up": 1,
           "is_sun_up": 1
         },
@@ -1053,7 +1053,7 @@
           "moonrise": "12:28 AM",
           "moonset": "02:31 PM",
           "moon_phase": "Waning Crescent",
-          "moon_illumination": "30",
+          "moon_illumination": 30,
           "is_moon_up": 1,
           "is_sun_up": 1
         },
@@ -2031,7 +2031,7 @@
           "moonrise": "01:23 AM",
           "moonset": "03:19 PM",
           "moon_phase": "Waning Crescent",
-          "moon_illumination": "22",
+          "moon_illumination": 22,
           "is_moon_up": 1,
           "is_sun_up": 1
         },
@@ -3009,7 +3009,7 @@
           "moonrise": "02:17 AM",
           "moonset": "04:01 PM",
           "moon_phase": "Waning Crescent",
-          "moon_illumination": "14",
+          "moon_illumination": 14,
           "is_moon_up": 1,
           "is_sun_up": 1
         },
@@ -3987,7 +3987,7 @@
           "moonrise": "03:11 AM",
           "moonset": "04:39 PM",
           "moon_phase": "Waning Crescent",
-          "moon_illumination": "8",
+          "moon_illumination": 8,
           "is_moon_up": 1,
           "is_sun_up": 1
         },
