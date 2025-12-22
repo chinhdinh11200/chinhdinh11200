@@ -52,7 +52,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.3 °C</td><td>21.1 °C</td><td>21.1 °C</td><td>20.9 °C</td><td>20.8 °C</td><td>20.7 °C</td><td>20.4 °C</td><td>20.2 °C</td><td>21.1 °C</td><td>22.6 °C</td><td>23.7 °C</td><td>24.5 °C</td><td>25.6 °C</td><td>26.2 °C</td><td>25.6 °C</td><td>24.1 °C</td><td>23.6 °C</td><td>23.1 °C</td><td>22.2 °C</td><td>22 °C</td><td>20.9 °C</td><td>20.5 °C</td><td>20.4 °C</td><td>20.6 °C</td>
+        <td>21.3 °C</td><td>21.1 °C</td><td>21.1 °C</td><td>20.9 °C</td><td>20.8 °C</td><td>20.7 °C</td><td>20.4 °C</td><td>20.2 °C</td><td>21.1 °C</td><td>22.6 °C</td><td>23.7 °C</td><td>24.5 °C</td><td>25.6 °C</td><td>26.2 °C</td><td>25.6 °C</td><td>24.1 °C</td><td>23.6 °C</td><td>23.1 °C</td><td>22.2 °C</td><td>21.3 °C</td><td>22.2 °C</td><td>20.5 °C</td><td>20.4 °C</td><td>20.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -91,7 +91,7 @@
 </details>
 
 <p align="right">
-  <i>Updated at: 2025-12-22T12:41:09Z</i>
+  <i>Updated at: 2025-12-22T13:33:38Z</i>
 </p>
 
 ---
