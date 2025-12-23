@@ -1,0 +1,39 @@
+name: happy_coding
+
+on:
+  schedule:
+    # Runs at 00:00 UTC on January 1st every year
+    - cron: '0 0 1 1 *'
+  workflow_dispatch: # Allows manual trigger for testing
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with new year message
+        run: |
+          YEAR=$(date +%Y)
+
+          # Check if the message for this year already exists
+          if ! grep -q "Happy code for $YEAR" README.md; then
+            # Find the line with the last "Happy code for" message
+            LAST_LINE=$(grep -n "Happy code for" README.md | tail -1 | cut -d: -f1)
+
+            # Insert new message after the closing </p> tag
+            sed -i "${LAST_LINE}a\\\\n<p>\\n    Happy code for $YEAR\\n</p>" README.md
+
+            echo "Added: Happy code for $YEAR"
+          else
+            echo "Message for $YEAR already exists"
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎉 Happy code for $(date +%Y)" && git push)
