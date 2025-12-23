@@ -28,7 +28,7 @@ jobs:
           fi
       
           awk -v entry="$ENTRY" '
-            /<div id="happy-code">/ {
+            /<div id="happy-code" align="center">/ {
               print
               print entry
               next
