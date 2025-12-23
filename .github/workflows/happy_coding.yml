@@ -21,13 +21,12 @@ jobs:
         run: |
           YEAR=$(date +%Y)
           ENTRY="    <p>Happy code for $YEAR</p>"
-      
-          if grep -q "$ENTRY" README.md; then
-            echo "Already exists"
-            exit 0
-          fi
 
           for file in README.md README.md.template; do
+            if grep -q "$ENTRY" "$file"; then
+              echo "Already exists"
+              continue
+            fi
             awk -v entry="$ENTRY" '
               /<div id="happy-code" align="center">/ {
                 print
