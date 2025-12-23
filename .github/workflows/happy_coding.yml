@@ -17,22 +17,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with new year message
+      - name: Update happy-code section
         run: |
           YEAR=$(date +%Y)
-
-          # Check if the message for this year already exists
-          if ! grep -q "Happy code for $YEAR" README.md; then
-            # Find the line with the last "Happy code for" message
-            LAST_LINE=$(grep -n "Happy code for" README.md | tail -1 | cut -d: -f1)
-
-            # Insert new message after the closing </p> tag
-            sed -i "${LAST_LINE}a\\\\n<p>\\n    Happy code for $YEAR\\n</p>" README.md
-
-            echo "Added: Happy code for $YEAR"
-          else
-            echo "Message for $YEAR already exists"
+          ENTRY="    <p>Happy code for $YEAR</p>"
+      
+          if grep -q "$ENTRY" README.md; then
+            echo "Already exists"
+            exit 0
           fi
+      
+          awk -v entry="$ENTRY" '
+            /<div id="happy-code">/ {
+              print
+              print entry
+              next
+            }
+            { print }
+          ' README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit and push changes
         run: |

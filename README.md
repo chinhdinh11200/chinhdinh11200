@@ -1,540 +1,97 @@
 <div align="center">
 
-<p>
-    Happy code for 2025
-</p>
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=70" width="100%" />
 
-<p>
-    Happy code for 2025
-</p>
-</div>
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 <div align="center">
-
-<p>
-    Happy code for 2025
-</p>
   <img src="https://github-readme-shortener.vercel.app/api?username=chinhdinh11200&theme=radical" alt="GitHub Readme Shortener" />
-
-<p>
-    Happy code for 2025
-</p>
   <br/>
-
-<p>
-    Happy code for 2025
-</p>
   <img src="https://komarev.com/ghpvc/?username=chinhdinh11200&color=blue" alt="Visitor Count" />
-
-<p>
-    Happy code for 2025
-</p>
 </div>
 
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 <p align="center">
 
-<p>
-    Happy code for 2025
-</p>
   <img src="https://github-readme-stats.vercel.app/api?username=chinhdinh11200&show_icons=true&theme=radical&hide_border=true" alt="Anurag's GitHub stats" />
 
-<p>
-    Happy code for 2025
-</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinhdinh11200&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 
-<p>
-    Happy code for 2025
-</p>
 </p>
 
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
----
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 ### 🐍 Snake Game
-
-<p>
-    Happy code for 2025
-</p>
 <div align="center">
-
-<p>
-    Happy code for 2025
-</p>
   <img src="https://raw.githubusercontent.com/chinhdinh11200/chinhdinh11200/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="100%" />
-
-<p>
-    Happy code for 2025
-</p>
 </div>
 
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
----
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 ### 🛠️ Tech Stack
-
-<p>
-    Happy code for 2025
-</p>
 <div align="center">
-
-<p>
-    Happy code for 2025
-</p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,nextjs,tailwind,nodejs,go,docker&theme=dark" />
-
-<p>
-    Happy code for 2025
-</p>
 </div>
 
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
----
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 ### 🌦️ Today's Weather in Hanoi
-
-<p>
-    Happy code for 2025
-</p>
 <div align="center">
-
-<p>
-    Happy code for 2025
-</p>
   <p><b>23/12/2025</b></p>
-
-<p>
-    Happy code for 2025
-</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" width="100" />
-
-<p>
-    Happy code for 2025
-</p>
   <h3>Patchy rain nearby</h3>
-
-<p>
-    Happy code for 2025
-</p>
 </div>
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 <table>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Hour</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Weather</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Condition</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Temperature</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td>20.6 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20 °C</td><td>19.7 °C</td><td>19.6 °C</td><td>19.5 °C</td><td>19.7 °C</td><td>20.8 °C</td><td>22.4 °C</td><td>24.2 °C</td><td>25.4 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.6 °C</td><td>24.7 °C</td><td>24.1 °C</td><td>23.4 °C</td><td>22.9 °C</td><td>22.2 °C</td><td>21.6 °C</td><td>21.2 °C</td><td>20.8 °C</td><td>20.7 °C</td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Wind</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td>12.2 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>9.4 kph</td><td>12.2 kph</td><td>14.8 kph</td><td>14.8 kph</td><td>15.1 kph</td><td>15.5 kph</td><td>16.2 kph</td><td>16.9 kph</td><td>16.2 kph</td><td>16.2 kph</td><td>15.5 kph</td><td>12.2 kph</td><td>10.4 kph</td><td>8.6 kph</td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
 </table>
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 <details>
 
-<p>
-    Happy code for 2025
-</p>
 <summary><b>📅 Weather Forecast for the Next 7 Days</b></summary>
-
-<p>
-    Happy code for 2025
-</p>
 <br/>
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 <table>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Date</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td>23/12/2025</td><td>24/12/2025</td><td>25/12/2025</td><td>26/12/2025</td><td>27/12/2025</td><td>28/12/2025</td><td>29/12/2025</td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Weather</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Condition</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Temperature</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td>19.5 -  26.1 °C</td><td>20.2 -  26.2 °C</td><td>14.4 -  16.6 °C</td><td>13.8 -  16.1 °C</td><td>15.5 -  16.9 °C</td><td>15.4 -  16.7 °C</td><td>15.6 -  17.6 °C</td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
     <tr>
-
-<p>
-    Happy code for 2025
-</p>
         <th>Wind</th>
-
-<p>
-    Happy code for 2025
-</p>
         <td>16.9 kph</td><td>18.7 kph</td><td>27.7 kph</td><td>17.3 kph</td><td>8.3 kph</td><td>10.8 kph</td><td>7.6 kph</td>
-
-<p>
-    Happy code for 2025
-</p>
     </tr>
-
-<p>
-    Happy code for 2025
-</p>
 </table>
 
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 </details>
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
 <p align="right">
-
-<p>
-    Happy code for 2025
-</p>
   <i>Updated at: 2025-12-23T03:25:58Z</i>
-
-<p>
-    Happy code for 2025
-</p>
-</p>
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
----
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
 </p>
 ### 💻 Connect with me
-
-<p>
-    Happy code for 2025
-</p>
 <p align="left">
-
-<p>
-    Happy code for 2025
-</p>
 <a href="https://github.com/chinhdinh11200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chinhdinh11200" height="30" width="40" /></a>
-
-<p>
-    Happy code for 2025
-</p>
-</p>
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
-</p>
----
-
-<p>
-    Happy code for 2025
-</p>
-
-
-<p>
-    Happy code for 2025
 </p>
 <p align="center">
-
-<p>
-    Happy code for 2025
-</p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" />
-
-<p>
-    Happy code for 2025
-</p>
 </p>
 
-<p>
-    Happy code for 2025
-</p>
+<div id="happy-code" align="center">
+</div>
