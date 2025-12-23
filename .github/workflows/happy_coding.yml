@@ -26,15 +26,17 @@ jobs:
             echo "Already exists"
             exit 0
           fi
-      
-          awk -v entry="$ENTRY" '
-            /<div id="happy-code" align="center">/ {
-              print
-              print entry
-              next
-            }
-            { print }
-          ' README.md > README.tmp && mv README.tmp README.md
+
+          for file in README.md README.md.template; do
+            awk -v entry="$ENTRY" '
+              /<div id="happy-code" align="center">/ {
+                print
+                print entry
+                next
+              }
+              { print }
+            ' "$file" > "${file}.tmp" && mv "${file}.tmp" "$file"
+          done
 
       - name: Commit and push changes
         run: |
