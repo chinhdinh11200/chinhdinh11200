@@ -6,6 +6,9 @@ on:
     - cron: '0 0 1 1 *'
   workflow_dispatch: # Allows manual trigger for testing
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -33,7 +36,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "chinhdinhtho@gmail.com"
-          git config --local user.name "chinhdt"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "🎉 Happy code for $(date +%Y)" && git push)
