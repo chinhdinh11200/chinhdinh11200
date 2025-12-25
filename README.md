@@ -52,7 +52,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.4 °C</td><td>18.1 °C</td><td>17.4 °C</td><td>16.8 °C</td><td>16.4 °C</td><td>15.9 °C</td><td>15.4 °C</td><td>15.1 °C</td><td>15.1 °C</td><td>15.3 °C</td><td>15.9 °C</td><td>16.3 °C</td><td>16.8 °C</td><td>17 °C</td><td>17.1 °C</td><td>17.1 °C</td><td>16.9 °C</td><td>16.5 °C</td><td>16.3 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>15.8 °C</td><td>18 °C</td><td>15.5 °C</td>
+        <td>18.4 °C</td><td>18.1 °C</td><td>17.4 °C</td><td>16.8 °C</td><td>16.4 °C</td><td>15.9 °C</td><td>15.4 °C</td><td>15.1 °C</td><td>15.1 °C</td><td>15.3 °C</td><td>15.9 °C</td><td>16.3 °C</td><td>16.8 °C</td><td>17 °C</td><td>17.1 °C</td><td>17.1 °C</td><td>16.9 °C</td><td>16.5 °C</td><td>16.3 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>15.8 °C</td><td>15.6 °C</td><td>18 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -91,7 +91,7 @@
 </details>
 
 <p align="right">
-  <i>Updated at: 2025-12-25T15:20:12Z</i>
+  <i>Updated at: 2025-12-25T16:24:53Z</i>
 </p>
 
 ---
