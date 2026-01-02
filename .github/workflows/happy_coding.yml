@@ -2,8 +2,7 @@ name: happy_coding
 
 on:
   schedule:
-    # Runs at 00:00 GMT+7 on January 1st every year
-    - cron: '0 17 31 12 *'
+    - cron: "0 0 1 1 *"
   workflow_dispatch: # Allows manual trigger for testing
 
 permissions:
