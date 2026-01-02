@@ -1,3 +1,4 @@
+[![chinhdinh11200 profile views](https://u8views.com/api/v1/github/profiles/57147522/views/day-week-month-total-count.svg)](https://u8views.com/github/chinhdinh11200)
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=70" width="100%" />
 </div>
