@@ -48,11 +48,11 @@
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.6 °C</td><td>18.2 °C</td><td>17.8 °C</td><td>17.5 °C</td><td>17.2 °C</td><td>17 °C</td><td>16.7 °C</td><td>16.6 °C</td><td>18.1 °C</td><td>20 °C</td><td>21.8 °C</td><td>23.2 °C</td><td>24.4 °C</td><td>25.2 °C</td><td>25.8 °C</td><td>26 °C</td><td>25.2 °C</td><td>24.6 °C</td><td>22.7 °C</td><td>21.6 °C</td><td>20.6 °C</td><td>20 °C</td><td>19.6 °C</td><td>19.2 °C</td>
+        <td>18.6 °C</td><td>18.2 °C</td><td>17.8 °C</td><td>17.5 °C</td><td>17.2 °C</td><td>17 °C</td><td>16.7 °C</td><td>16.6 °C</td><td>18.1 °C</td><td>20 °C</td><td>21.8 °C</td><td>23.2 °C</td><td>24.4 °C</td><td>25.2 °C</td><td>25.8 °C</td><td>26 °C</td><td>25.7 °C</td><td>24.1 °C</td><td>22.7 °C</td><td>21.6 °C</td><td>20.6 °C</td><td>20 °C</td><td>19.6 °C</td><td>19.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -91,7 +91,7 @@
 </details>
 
 <p align="right">
-  <i>Updated at: 2026-01-14T09:28:26Z</i>
+  <i>Updated at: 2026-01-14T10:24:41Z</i>
 </p>
 
 ---
