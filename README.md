@@ -48,11 +48,11 @@
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td>
+        <td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.2 °C</td><td>28.9 °C</td><td>28.7 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>28 °C</td><td>25.2 °C</td><td>29 °C</td><td>30.4 °C</td><td>31.7 °C</td><td>32.6 °C</td><td>32.5 °C</td><td>32 °C</td><td>31.8 °C</td><td>31.9 °C</td><td>31.9 °C</td><td>32.3 °C</td><td>32.1 °C</td><td>31.1 °C</td><td>29.8 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.1 °C</td><td>27 °C</td>
+        <td>29.2 °C</td><td>28.9 °C</td><td>28.7 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>28 °C</td><td>28 °C</td><td>29 °C</td><td>30.4 °C</td><td>31.7 °C</td><td>32.6 °C</td><td>32.5 °C</td><td>28.4 °C</td><td>31.8 °C</td><td>31.9 °C</td><td>31.9 °C</td><td>32.3 °C</td><td>32.1 °C</td><td>31.1 °C</td><td>29.8 °C</td><td>27.8 °C</td><td>27.5 °C</td><td>27.1 °C</td><td>27 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -91,7 +91,7 @@
 </details>
 
 <p align="right">
-  <i>Updated at: 2026-06-05T00:06:00Z</i>
+  <i>Updated at: 2026-06-05T05:15:39Z</i>
 </p>
 
 ---
