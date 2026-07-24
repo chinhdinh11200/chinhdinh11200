@@ -2,14 +2,8 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=70" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-shortener.vercel.app/api?username=chinhdinh11200&theme=radical" alt="GitHub Readme Shortener" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=chinhdinh11200&color=blue" alt="Visitor Count" />
-</div>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinhdinh11200&show_icons=true&theme=radical&hide_border=true" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinhdinh11200&show_icons=true&theme=radical&hide_border=true" alt="chinhdinh11200's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinhdinh11200&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
@@ -24,75 +18,8 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,nextjs,tailwind,nodejs,go,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,html,css,js,ts,vue,php,laravel,go,rust,python,nodejs&theme=dark" />
 </div>
-
----
-
-### 🌦️ Today's Weather in Hanoi
-<div align="center">
-  <p><b>24/07/2026</b></p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" width="100" />
-  <h3>Light rain shower</h3>
-</div>
-
-
-<table>
-    <tr>
-        <th>Hour</th>
-        <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
-    </tr>
-    <tr>
-        <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/389.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
-    </tr>
-    <tr>
-        <th>Condition</th>
-        <td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain with thunder</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td>
-    </tr>
-    <tr>
-        <th>Temperature</th>
-        <td>27.2 °C</td><td>26.9 °C</td><td>27 °C</td><td>26.9 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.6 °C</td><td>27.6 °C</td><td>28.9 °C</td><td>30.2 °C</td><td>31.2 °C</td><td>31.9 °C</td><td>32.4 °C</td><td>31.3 °C</td><td>32.8 °C</td><td>32.3 °C</td><td>31.4 °C</td><td>30.6 °C</td><td>29.3 °C</td><td>28.2 °C</td><td>27.6 °C</td><td>27.2 °C</td><td>27.1 °C</td><td>26.7 °C</td>
-    </tr>
-    <tr>
-        <th>Wind</th>
-        <td>9.4 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>11.5 kph</td><td>14.4 kph</td><td>15.8 kph</td><td>15.5 kph</td><td>15.8 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>16.2 kph</td><td>15.8 kph</td><td>14.8 kph</td><td>13 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.1 kph</td>
-    </tr>
-</table>
-
-
-<details>
-<summary><b>📅 Weather Forecast for the Next 3 Days</b></summary>
-<br/>
-
-<table>
-    <tr>
-        <th>Date</th>
-        <td>24/07/2026</td><td>25/07/2026</td><td>26/07/2026</td>
-    </tr>
-    <tr>
-        <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/></td>
-    </tr>
-    <tr>
-        <th>Condition</th>
-        <td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Smoky haze</td>
-    </tr>
-    <tr>
-        <th>Temperature</th>
-        <td>26.4 -  32.9 °C</td><td>26 -  33.3 °C</td><td>26 -  34.3 °C</td>
-    </tr>
-    <tr>
-        <th>Wind</th>
-        <td>16.6 kph</td><td>12.6 kph</td><td>10.1 kph</td>
-    </tr>
-</table>
-
-</details>
-
-<p align="right">
-  <i>Updated at: 2026-07-24T06:24:08Z</i>
-</p>
 
 ---
 
@@ -100,14 +27,3 @@
 <p align="left">
 <a href="https://github.com/chinhdinh11200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chinhdinh11200" height="30" width="40" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" />
-</p>
-
-<div id="happy-code" align="center">
-    <p>Happy code for 2026</p>
-    <p>Happy code for 2025</p>
-</div>
